@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <g id="Chip" fill="#36373b">
+    <rect id="Base" width="480" height="480" x="260" y="260" rx="40"/>
+    <g id="Pins Left">
+      <rect id="Pin #20" width="100" height="40" x="140" y="320" ry="20"/>
+      <rect id="Pin #19" width="100" height="40" x="140" y="400" ry="20"/>
+      <rect id="Pin #18" width="100" height="40" x="140" y="480" ry="20"/>
+      <rect id="Pin #17" width="100" height="40" x="140" y="560" ry="20"/>
+      <rect id="Pin #16" width="100" height="40" x="140" y="640" ry="20"/>
+    </g>
+    <g id="Pins Bottom">
+      <rect id="Pin #15" width="40" height="100" x="320" y="760" ry="20"/>
+      <rect id="Pin #14" width="40" height="100" x="400" y="760" ry="20"/>
+      <rect id="Pin #13" width="40" height="100" x="480" y="760" ry="20"/>
+      <rect id="Pin #12" width="40" height="100" x="560" y="760" ry="20"/>
+      <rect id="Pin #11" width="40" height="100" x="640" y="760" ry="20"/>
+    </g>
+    <g id="Pins Right">
+      <rect id="Pin #10" width="100" height="40" x="760" y="640" ry="20"/>
+      <rect id="Pin #9" width="100" height="40" x="760" y="560" ry="20"/>
+      <rect id="Pin #8" width="100" height="40" x="760" y="480" ry="20"/>
+      <rect id="Pin #7" width="100" height="40" x="760" y="400" ry="20"/>
+      <rect id="Pin #6" width="100" height="40" x="760" y="320" ry="20"/>
+    </g>
+    <g id="Pins Top">
+      <rect id="Pin #5" width="40" height="100" x="640" y="140" ry="20"/>
+      <rect id="Pin #4" width="40" height="100" x="560" y="140" ry="20"/>
+      <rect id="Pin #3" width="40" height="100" x="480" y="140" ry="20"/>
+      <rect id="Pin #2" width="40" height="100" x="400" y="140" ry="20"/>
+      <rect id="Pin #1" width="40" height="100" x="320" y="140" ry="20"/>
+    </g>
+  </g>
+  <g id="Logo" fill="#fafcfc">
+    <path id="E (Bottom Part)" d="M450 460 h140 a10 10 0 0 1 10 10 v50 a10 10 0 0 1 -10 10 H450 Z"/>
+    <path id="E (Top Part)" d="M450 350 h190 a10 10 0 0 1 10 10 v50 a10 10 0 0 1 -10 10 H450 Z"/>
+    <path id="L" d="M360 350h65a10 10 0 0 1 10 10v210h205a10 10 0 0 1 10 10v60a10 10 0 0 1-10 10H360a10 10 0 0 1-10-10V360a10 10 0 0 1 10-10Z"/>
+  </g>
+</svg>
